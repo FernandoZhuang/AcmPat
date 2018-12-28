@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ShufflingMachine.cpp">
+    <ClCompile Include="InfixExpression.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
