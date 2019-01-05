@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ListSorting.cpp">
+    <ClCompile Include="HelloWorldForU.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
