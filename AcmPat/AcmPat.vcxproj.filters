@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorldForU.cpp">
+    <ClCompile Include="MagicCoupon.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
