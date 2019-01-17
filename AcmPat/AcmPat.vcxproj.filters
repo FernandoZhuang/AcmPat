@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RecovertheSmallestNumber.cpp">
+    <ClCompile Include="FavoriateColorStripe.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
