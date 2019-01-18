@@ -2,10 +2,12 @@
 //#define LOCAL
 #define UNK 999
 #include <iostream>
+#include <vector>
 #include <cstring>
 using namespace std;
 
-int colorHash[201], stripe[10001], res[10001];
+vector<int> colorHash(201, UNK);
+int stripe[10001], res[10001];
 
 int main() {
 #ifdef LOCAL
@@ -13,7 +15,6 @@ int main() {
 #endif
 	int N, M, L, tmp, flag = 0;
 	cin >> N >> M;
-	memset(colorHash, UNK, 201 * sizeof(int));
 	for (int i = 1; i <= M; i++) { 
 		cin >> tmp;
 		colorHash[tmp] = i;
