@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FindCoins.cpp">
+    <ClCompile Include="TalentAndVirtue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
