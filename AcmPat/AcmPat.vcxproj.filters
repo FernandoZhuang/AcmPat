@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TalentAndVirtue.cpp">
+    <ClCompile Include="SpeechPatterns.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
