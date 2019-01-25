@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SpeechPatterns.cpp">
+    <ClCompile Include="MoonCake.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

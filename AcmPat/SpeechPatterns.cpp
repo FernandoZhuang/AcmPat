@@ -16,15 +16,10 @@ int main() {
 	while (cin >> tmp) {
 		string str;
 		for (int i = 0; i < tmp.size(); i++) {
-			if (isalnum(tmp[i]) != 0) {
-				if (isalpha(tmp[i]) != 0)
+			if (isalnum(tmp[i]) != 0) 
 					str += tolower(tmp[i]);
-				else
-					str += tmp[i];
-			}
 		}
-		if (str.size() != 0) 
-			res[str]++;
+		res[str]++;
 	}
 	map<string, int>::iterator it = res.begin(), it2;
 	for (it; it != res.end(); it++) {
