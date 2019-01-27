@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MoonCake.cpp">
+    <ClCompile Include="FowardsOnWeibo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
