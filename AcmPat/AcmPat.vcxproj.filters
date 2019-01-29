@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FowardsOnWeibo.cpp">
+    <ClCompile Include="ScientifcNotation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
