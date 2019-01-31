@@ -1,5 +1,5 @@
-//#define _CRT_SECURE_NO_WARNINGS
-//#define LOCAL
+#define _CRT_SECURE_NO_WARNINGS
+#define LOCAL
 #define MAX 999999999
 #include <iostream>
 #include <string>
