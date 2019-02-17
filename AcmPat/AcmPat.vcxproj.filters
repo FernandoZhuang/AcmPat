@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CountPats.cpp">
+    <ClCompile Include="DedpulicationOnLinkedList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
