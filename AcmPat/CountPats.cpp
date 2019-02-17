@@ -1,5 +1,5 @@
-#define _CRT_SECURE_NO_WARNINGS
-#define LOCAL
+//#define _CRT_SECURE_NO_WARNINGS
+//#define LOCAL
 #include <iostream>
 #include <string>
 using namespace std;
